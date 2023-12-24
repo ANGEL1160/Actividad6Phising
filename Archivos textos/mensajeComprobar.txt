@@ -1,0 +1,13 @@
+Estimado(a) [Nombre del Usuario],
+
+Urgente
+Le escribimos para informarle que hemos detectado actividad sospechosa en su cuenta. Con el fin de proteger la seguridad de su cuenta y sus datos personales, es necesario que verifique su información y realice algunas acciones de seguridad de inmediato.
+Por favor, haga clic en el siguiente enlace para iniciar sesión en su cuenta y proceder con la actualización de su información de seguridad: [Enlace seguro de inicio de sesión]
+Una vez que haya iniciado sesión, deberá confirmar su contraseña y seguir las instrucciones proporcionadas para restablecer el acceso a su cuenta. Le recomendamos que elija una contraseña segura y única para fortalecer la protección de su cuenta.
+Este problema requiere una acción urgente de su parte. Si no se realiza el cambio de contraseña y se actualiza la información requerida, su cuenta podría ser suspendida temporalmente por razones de seguridad.
+Entendemos lo importante que es proteger sus datos personales y evitar el robo de identidad y el fraude en línea. Este mensaje tiene el propósito de alertarle sobre la situación y ayudarle a tomar medidas para proteger su cuenta de cualquier amenaza de seguridad.
+Para asegurar la integridad de su cuenta y mantenerla protegida, le pedimos que siga cuidadosamente todas las instrucciones proporcionadas. Si tiene alguna duda o necesita asistencia adicional, no dude en contactar a nuestro equipo de soporte, quienes estarán dispuestos a ayudarle.
+Agradecemos su comprensión y cooperación en este asunto urgente. La seguridad de nuestros usuarios es nuestra prioridad y estamos comprometidos a garantizar un entorno seguro para todos.
+Atentamente,
+El Equipo de Seguridad en Línea
+[Nombre de la Compañía]

@@ -1,0 +1,30 @@
+Urgente:3
+Cuenta bloqueada:3
+Verificar información:3
+Actualizar información:3
+Iniciar sesión:3
+Haga clic aquí:3
+Contraseña:2
+Seguridad:2
+Confirmar:2
+Alerta:2
+Problema:2
+Acción requerida:2
+Información importante:2
+Cambio de contraseña:2
+Suspensión de cuenta:2
+Verificación de cuenta:2
+Acceso limitado:1
+Restablecer contraseña:1
+Notificación de seguridad:1
+Mensaje importante:1
+Ingreso no autorizado:1
+Actividad sospechosa:1
+Proteja su cuenta:1
+Actualización de seguridad:1
+Instrucciones de seguridad:1
+Información confidencial:1
+Datos personales:1
+Robo de identidad:1
+Fraude en línea:1
+Amenaza de seguridad:1
